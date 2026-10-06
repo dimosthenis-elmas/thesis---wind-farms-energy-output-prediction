@@ -1,6 +1,6 @@
 ![Image: Model predictions for a 18h context window and 14 hours of predictions for all 10 wind farms](<readme image 1.png>)
 
-<sub><h4>Model predictions for an 18h context window and 14 hours of predictions for all 10 wind farms<h4></sub>
+<sub><h4>Model predictions for an 18h context window and 24 hours of predictions for all 10 wind farms<h4></sub>
 
 <div align="center"> <h1>Forecasting renewable energy generation using deep learning<h1></div>
 <div align="center"> <h2>Dimosthenis Elmas<h2></div>
