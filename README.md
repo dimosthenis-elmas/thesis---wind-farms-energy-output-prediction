@@ -1,5 +1,3 @@
-<style>h2,h3,h4 { border-bottom: 0; } </style>
-
 ![Image: Model predictions for a 18h context window and 14 hours of predictions for all 10 wind farms](<readme image 1.png>)
 
 <sub><h4>Model predictions for a 18h context window and 14 hours of predictions for all 10 wind farms<h4></sub>
